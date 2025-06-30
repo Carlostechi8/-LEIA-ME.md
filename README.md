@@ -1,8 +1,8 @@
 # Sobre mim
-## Olá, sou o Profe Wylly
-- Licenciado em Física (UEPG)
-- Especialista em Metodologia do Ensino Superior (CESCAGE)
-- Professor QPM - NRE Ponta Grossa - PR
-- Atuando nas componentes Física, Pensamento Computacional e Robótica
-- Tenho interesse em Astronomia, Robótica e Programação
-- Atualmente estou aprendendo HTML, CSS, JavaScript e Arduino IDE
+## Olá, sou o Carlos Eduardo
+- Ensino fundamental completo
+- Especialista como criador de videos
+- Aluno do Colégio Estadual Padre Pedro Grzelczaki
+- Fazendo curso de Artes cênicas
+- Tenho interesse em ser Ator, Programador, Engenheiro da computação, e Tecnico em celular
+- Atualmente estou aprendendo HTML,
